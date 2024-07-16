@@ -1,0 +1,5 @@
+2captcha_python==1.2.2
+itemadapter==0.8.0
+Scrapy==2.11.1
+scrapy_zyte_api==0.16.1
+

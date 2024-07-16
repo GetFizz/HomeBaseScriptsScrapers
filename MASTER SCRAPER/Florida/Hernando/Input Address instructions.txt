@@ -1,0 +1,13 @@
+
+######################################################################################################
+
+		       Ensure Address Field Format in "hernando_address_list.csv":
+
+1. Each address entry should contain at least two words.
+
+2. The second word in each address must be complete and represent a recognized street suffix such as "Drive," "Street," "Road," etc.
+
+3. The street suffix can be in uppercase or lowercase; ensure consistency.
+
+
+######################################################################################################
